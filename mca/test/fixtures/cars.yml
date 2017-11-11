@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brand: MyString
+  carmodel: MyString
+  year: 1
+  user_id: 1
+
+two:
+  brand: MyString
+  carmodel: MyString
+  year: 1
+  user_id: 1
