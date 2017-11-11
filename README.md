@@ -1,2 +1,2 @@
 # mca
-a nice car app
+a nice app for car upkeep
